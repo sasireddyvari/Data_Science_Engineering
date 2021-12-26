@@ -1,0 +1,2 @@
+The minimum flights that need to be added: 3
+The flights that need to be added are: [['LGA', 'SFO'], ['LGA', 'TLV'], ['LGA', 'EWR']]
